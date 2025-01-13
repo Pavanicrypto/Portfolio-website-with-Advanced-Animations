@@ -46,3 +46,7 @@ For deployment, services like Heroku or Vercel can be utilized. These platforms 
   **Conclusion**:
   
 The Portfolio Website with Advanced Animations exemplifies the integration of modern web development frameworks and libraries to create a full-stack application. By leveraging React.js for the front end, Node.js and Express.js for the back end, and MongoDB for data management, this project not only showcases technical skills but also enhances user engagement through advanced animations and a responsive design. This combination of technologies ensures that the portfolio is not just a static showcase, but an interactive platform that reflects the developer's creativity and technical prowess.
+
+**output of the task:**
+
+![image](https://github.com/user-attachments/assets/8af0f316-784c-4600-a1b8-5567bf3f7848)
